@@ -1,0 +1,59 @@
+body{
+    background-color: lightblue;
+}
+.first{
+    height: 300px;
+    width: 350px;
+    border-bottom-left-radius: 12px;
+    border-top-left-radius: 12px;
+    margin: 100px 20% 0 20%;
+}
+.sec{
+    background-color: white;
+    width: 710px;
+    height: 300px;
+    margin-top: -304px;
+    margin-left: 41%;
+}
+.home{
+    margin: 0 50px;
+    padding-top: 20px;
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    width: 80%;
+    letter-spacing: 2px;
+}
+.des{
+    margin: 25px 50px;
+    width: 80%;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+.pdp{
+    width: 60px;
+    margin: -10px 50px;
+}
+.name{
+    margin: -45px 130px ;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.date{
+    margin: 50px 130px ;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+}
+.share{
+    position: relative;
+    bottom: 77px;
+    margin-left: 600Px;
+    width: 30px;
+}
+.attribution{
+    margin: 20px 650px;
+    width: 100%;
+}
